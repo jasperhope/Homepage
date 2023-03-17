@@ -6,7 +6,7 @@
 ### Hi,Here! 🥰
 ### I am Jasper Hope, welcome to my homepage!
   ---
-<div style="background-color: #000033;width: 30%;">
+<div style="background-color: #000080;width: 100%;">
 	<h2 style="color: white;text-align: left;padding: 6px;">Education</h2>
 </div>
 
@@ -16,7 +16,7 @@
   
   <font color="midnightblue" size=5>Guanghua School of Management, Peking University</font> *2022-Present*
   
-<div style="background-color: #000033;width: 30%;">
+<div style="background-color: #000080;width: 100%;">
 	<h2 style="color: white;text-align: left;padding: 6px;">How to reach me</h2>
 </div>
 
