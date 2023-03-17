@@ -1,6 +1,6 @@
 # <font color="black" size=10>Jasper Hope</font>
-### *Hi,Here! 
-  I am Jasper Hope, welcome to my homepage!*
+### Hi,Here! 
+### I am Jasper Hope, welcome to my homepage!
   
 ## <font color="orange" size=5>Education</font>
   <font color="black" size=4>Lincang No.3 Middle School</font>
