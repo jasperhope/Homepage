@@ -3,17 +3,23 @@
   I am Jasper Hope, welcome to my homepage!*
   
 ## <font color="orange" size=5>Education</font>
- <font color="black" size=4>Lincang No.3 Middle School</font>
+  <font color="black" size=4>Lincang No.3 Middle School</font>
+ 
  
   <font color="gray">2016-2019</font>
   
+  
   <font color="black" size=4>Lincang No.1 Senoir High</font>
+  
   
   <font color="gray">2019-2022</font>
   
+  
   <font color="black" size=4>Guanghua School of Management, Peking University</font>
   
+  
   <font color="gray">2022-Present</font>
+  
   
 ## <font color="orange" size=5>How to reach me</font>
   <font color="gray">Tel:</font> 185-1898-6033
