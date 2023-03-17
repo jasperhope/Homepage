@@ -10,11 +10,14 @@
 	<h2 style="color: white;text-align: left;padding: 6px;">Education</h2>
 </div>
 
-  <font color="midnightblue" size=5>Lincang No.3 Middle School</font> <font color="gray" size=4>2016-2019</font>
+  <font color="midnightblue" size=5>Lincang No.3 Middle School</font> <br />
+  <font color="gray" size=4>2016-2019</font> <br />
   
-  <font color="midnightblue" size=5>Lincang No.1 Senoir High</font> <font color="gray" size=4>「Mainly on Liberal Arts」2019-2022</font>
+  <font color="midnightblue" size=5>Lincang No.1 Senoir High</font> <br />
+  <font color="gray" size=4>「Mainly on Liberal Arts」2019-2022</font> <br />
   
-  <font color="midnightblue" size=5>Guanghua School of Management, Peking University</font> <font color="gray" size=4>2022-Present</font>
+  <font color="midnightblue" size=5>Guanghua School of Management, Peking University</font> <br />
+  <font color="gray" size=4>2022-Present</font> <br />
   
 <div style="background-color: #000033;width: 30%;">
 	<h2 style="color: white;text-align: left;padding: 6px;">How to reach me</h2>
