@@ -14,7 +14,7 @@
   
   <font color="midnightblue" size=5>Lincang No.1 Senoir High</font>「*Mainly on Liberal Arts*」*2019-2022*
   
-  [<font color="midnightblue" size=5>Guanghua School of Management](https://www.gsm.pku.edu.cn/), Peking University</font> *2022-Present*
+  <font color="midnightblue" size=5>Guanghua School of Management, Peking University</font> *2022-Present*
   
 <div style="background-color: #000033;width: 30%;">
 	<h2 style="color: white;text-align: left;padding: 6px;">How to reach me</h2>
