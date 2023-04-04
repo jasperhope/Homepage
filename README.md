@@ -2,9 +2,7 @@
 <header id="header">
 	<nav id="nav">
 		<ul>
-			<li><a href="#education">Education</a></li>
-			<li><a href="#how-to-reach-me">Contact</a></li>
-			<li><a href="#some-files">Files</a></li>
+			<center> <li><a href="#education">Education</a></li> <li><a href="#how-to-reach-me">Contact</a></li> <li><a href="#some-files">Files</a></li> </center>
 		</ul>
 	</nav>
 </header>
@@ -27,7 +25,6 @@
   <font color="#00CED1" size=5 face="calibri">Lincang No.1 Senoir High</font>「*Mainly on Liberal Arts*」 *2019-2022*
 
   <font color="#00CED1" size=5 face="calibri">Guanghua School of Management, Peking University</font>  *2022-Present*
-  ---
 
 <div style="background-color: teal;width: 100%;">
 	<h2 style="color: white;text-align: left;padding: 6px;">How to reach me</h2>
@@ -40,7 +37,6 @@
 <font color="#00CED1" face="calibri" size=5>Address:</font> 🏫629, Building 38, Peking Univ., Haidian, Beijing
 
 <font color="#00CED1" face="calibri" size=5>My Official Accounts:</font> 📱[在思考的猪](https://mp.weixin.qq.com/s/Vh5_pRwz_MplRXsA1rHOHA)
-  ---
 
 <div style="background-color: teal;width: 100%;">
 	<h2 style="color: white;text-align: left;padding: 6px;">Some Files</h2>
