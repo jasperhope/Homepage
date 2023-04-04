@@ -2,11 +2,11 @@
 	<h2 style="color: white;text-align: right;padding: 7px;">Brief CV</h2>
 </div>
 
-# <font color="black" size=10 face="calibri">Jasper Hope</font>
+# <font color="gray" size=10 face="calibri" text-align="center" color="teal">Jasper Hope</font>
 ### Hi,Here! 🥰
 ### I am Jasper Hope, welcome to my homepage!
   ---
-<div style="background-color: #000080;width: 100%;">
+<div style="background-color: teal;width: 100%;">
 	<h2 style="color: white;text-align: left;padding: 6px;">Education</h2>
 </div>
 
@@ -16,7 +16,7 @@
   
   <font color="midnightblue" size=5 face="calibri">Guanghua School of Management, Peking University</font> \\ *2022-Present*
   
-<div style="background-color: #000080;width: 100%;">
+<div style="background-color: teal;width: 100%;">
 	<h2 style="color: white;text-align: left;padding: 6px;">How to reach me</h2>
 </div>
 
@@ -28,7 +28,7 @@
 
   <font color="gray" face="calibri">My Official Accounts:</font> [在思考的猪](https://mp.weixin.qq.com/s/Vh5_pRwz_MplRXsA1rHOHA)
 
-<div style="background-color: #000080;width: 100%;">
+<div style="background-color: teal;width: 100%;">
 	<h2 style="color: white;text-align: left;padding: 6px;">Some Files</h2>
 </div>
 
