@@ -27,3 +27,9 @@
   <font color="gray" face="calibri">Address:</font> 629, Building 38, Peking Univ., Haidian, Beijing
 
   <font color="gray" face="calibri">My Official Accounts:</font> [在思考的猪](https://mp.weixin.qq.com/s/Vh5_pRwz_MplRXsA1rHOHA)
+
+<div style="background-color: #000080;width: 100%;">
+	<h2 style="color: white;text-align: left;padding: 6px;">Some Profiles</h2>
+</div>
+
+<font color="gray" face="calibri">Lagrange Multipliers in Optimizing:</font> [link]()
