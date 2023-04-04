@@ -2,9 +2,9 @@
 <header id="header">
 	<nav id="nav">
 		<ul>
-			<li><a href="#one">Education</a></li>
-			<li><a href="#two">Contact</a></li>
-			<li><a href="#three">Files</a></li>
+			<li><a href="#education">Education</a></li>
+			<li><a href="#how-to-reach-me">Contact</a></li>
+			<li><a href="#some-files">Files</a></li>
 		</ul>
 	</nav>
 </header>
@@ -18,7 +18,6 @@
 ### I am Jasper Hope, welcome to my homepage!
   ---
 
-<!-- One -->
 <div style="background-color: teal;width: 100%;">
 	<h2 style="color: white;text-align: left;padding: 6px;">Education</h2>
 </div>
@@ -30,21 +29,19 @@
   <font color="#00CED1" size=5 face="calibri">Guanghua School of Management, Peking University</font>  *2022-Present*
 
 
-<!-- Two -->
 <div style="background-color: teal;width: 100%;">
 	<h2 style="color: white;text-align: left;padding: 6px;">How to reach me</h2>
 </div>
 
-  <font color="gray" face="calibri">Tel:</font> 185-1898-6033
+  <font color="gray" face="calibri" size=3>Tel:</font> 185-1898-6033
 
-  <font color="gray" face="calibri">E-mail:</font> 2200015893@gsm.pku.edu.cn ( <font color="gray">Official</font> ) / bbpig185@163.com ( <font color="gray">Private</font> )
+  <font color="gray" face="calibri" size=3>E-mail:</font> 2200015893@gsm.pku.edu.cn ( <font color="gray">Official</font> ) / bbpig185@163.com ( <font color="gray">Private</font> )
 
-  <font color="gray" face="calibri">Address:</font> 629, Building 38, Peking Univ., Haidian, Beijing
+  <font color="gray" face="calibri" size=3>Address:</font> 629, Building 38, Peking Univ., Haidian, Beijing
 
-  <font color="gray" face="calibri">My Official Accounts:</font> [在思考的猪](https://mp.weixin.qq.com/s/Vh5_pRwz_MplRXsA1rHOHA)
+  <font color="gray" face="calibri" size=3>My Official Accounts:</font> [在思考的猪](https://mp.weixin.qq.com/s/Vh5_pRwz_MplRXsA1rHOHA)
 
 
-<!-- Three -->
 <div style="background-color: teal;width: 100%;">
 	<h2 style="color: white;text-align: left;padding: 6px;">Some Files</h2>
 </div>
