@@ -10,11 +10,11 @@
 	<h2 style="color: white;text-align: left;padding: 6px;">Education</h2>
 </div>
 
-  <font color="midnightblue" size=5 face="calibri">Lincang No.3 Middle School</font> *2016-2019*
+  <font color="midnightblue" size=5 face="calibri">Lincang No.3 Middle School</font> \\ *2016-2019*
   
-  <font color="midnightblue" size=5 face="calibri">Lincang No.1 Senoir High</font>「*Mainly on Liberal Arts*」*2019-2022*
+  <font color="midnightblue" size=5 face="calibri">Lincang No.1 Senoir High</font>「*Mainly on Liberal Arts*」\\ *2019-2022*
   
-  <font color="midnightblue" size=5 face="calibri">Guanghua School of Management, Peking University</font> *2022-Present*
+  <font color="midnightblue" size=5 face="calibri">Guanghua School of Management, Peking University</font> \\ *2022-Present*
   
 <div style="background-color: #000080;width: 100%;">
 	<h2 style="color: white;text-align: left;padding: 6px;">How to reach me</h2>
@@ -29,7 +29,7 @@
   <font color="gray" face="calibri">My Official Accounts:</font> [在思考的猪](https://mp.weixin.qq.com/s/Vh5_pRwz_MplRXsA1rHOHA)
 
 <div style="background-color: #000080;width: 100%;">
-	<h2 style="color: white;text-align: left;padding: 6px;">Some Profiles</h2>
+	<h2 style="color: white;text-align: left;padding: 6px;">Some Files</h2>
 </div>
 
 Professinal Classes of GSM:
