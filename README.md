@@ -14,7 +14,7 @@
 
   <font color="#00CED1" size=5 face="calibri">Lincang No.3 Middle School</font>  *2016-2019*
 
-  <font color="#00CED1" size=5 face="calibri">Lincang No.1 Senoir High</font>「*Mainly on Liberal Arts*」 *2019-2022*
+  <font color="#00CED1" size=5 face="calibri">Lincang No.1 Senior High</font>「*Mainly on Liberal Arts*」 *2019-2022*
 
   <font color="#00CED1" size=5 face="calibri">Guanghua School of Management, Peking University</font>  *2022-Present*
 
