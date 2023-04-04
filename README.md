@@ -32,4 +32,4 @@
 	<h2 style="color: white;text-align: left;padding: 6px;">Some Profiles</h2>
 </div>
 
-<font color="gray" face="calibri">Lagrange Multipliers in Optimizing:</font> [link](jasperhope.github.io/Homepage/Microeconomics.pdf)
+<font color="gray" face="calibri">Lagrange Multipliers in Optimizing:</font> [link](Microeconomics.pdf)
