@@ -1,8 +1,11 @@
+<table><tr><td bgcolor=#E0FFFF>&emsp;&emsp;</td></tr></table>
 <!-- Header -->
 <header id="header">
 	<nav id="nav">
 		<ul>
-			<center> <li><a href="#education">Education</a></li> <li><a href="#how-to-reach-me">Contact</a></li> <li><a href="#some-files">Files</a></li> </center>
+			<li><a href="#education">Education</a>
+			</li> <li><a href="#how-to-reach-me">Contact</a>
+			</li> <li><a href="#some-files">Files</a></li>
 		</ul>
 	</nav>
 </header>
