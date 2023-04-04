@@ -1,4 +1,4 @@
-<table><tr><td bgcolor=#E0FFFF>&emsp;&emsp;</td></tr></table>
+<table><tr><td backgroundcolor=#E0FFFF>&emsp;&emsp;</td></tr></table>
 <!-- Header -->
 <header id="header">
 	<nav id="nav">
