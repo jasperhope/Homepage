@@ -1,5 +1,5 @@
 <div style="background-color: #000033;width: 100%;">
-	<h2 style="color: white;text-align: right;padding: 7px;">RESUME</h2>
+	<h2 style="color: white;text-align: right;padding: 7px;">Brief CV</h2>
 </div>
 
 # <font color="black" size=10 face="calibri">Jasper Hope</font>
