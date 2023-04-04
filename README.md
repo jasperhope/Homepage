@@ -1,8 +1,8 @@
-<div style="background-color: #000033;width: 100%;">
+<div style="background-color: teal;width: 100%;">
 	<h2 style="color: white;text-align: right;padding: 7px;">Brief CV</h2>
 </div>
 
-# <font color="gray" size=10 face="calibri" text-align="center" color="teal">Jasper Hope</font>
+ <font color="gray" size=15 face="calibri" text-align="center" color="teal">Jasper Hope</font>
 ### Hi,Here! 🥰
 ### I am Jasper Hope, welcome to my homepage!
   ---
