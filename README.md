@@ -1,12 +1,6 @@
-<div style>
-	#rcorners1 {
-  border-radius: 25px;
-  background: teal;
-  padding: 30px; 
-  width: 30px;
-  height: 15px;  
-}
-</div>
+<!DOCTYPE html>
+<html>
+<body style="background-color:#F0FFFF;">
 
 <div style="background-color: teal;width: 100%;">
 	<h2 style="color: white;text-align: right;padding: 7px;">Brief CV</h2>
@@ -51,4 +45,7 @@
 <a href="https://jasperhope.github.io/Homepage/Review For Accounting(Chap.1-3).pdf">Accounting Chapter1-Chapter3</a>
 
 <a href="https://jasperhope.github.io/Homepage/Selection of Variance Formulas.pdf">Selection of Variance Formulas</a>
+
+</body>
+</html>
 
