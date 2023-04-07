@@ -35,9 +35,11 @@
 </div>
 
 
-<font color="#00CED1" face="calibri" size=5>Professinal Classes of GSM:</font>
+<font color="#00CED1" face="calibri" size=5>Materials of Professinal Courses in GSM:</font>
 
 <a href="https://jasperhope.github.io/Homepage/Microeconomics.pdf">Lagrange Multipliers in Optimizing</a>
 
 <a href="https://jasperhope.github.io/Homepage/Review For Accounting(Chap.1-3).pdf">Accounting Chapter1-Chapter3</a>
+
+<a href="https://jasperhope.github.io/Homepage/Selection of Variance Formulas.pdf">Selection of Variance Formulas</a>
 
