@@ -1,4 +1,12 @@
-			
+#rcorners3 {
+  border-radius: 25px;
+  background: url(paper.gif);
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 2px;
+  width: 20px;
+  height: 15px;
+}		
 <div style="background-color: teal;width: 100%;">
 	<h2 style="color: white;text-align: right;padding: 7px;">Brief CV</h2>
 </div>
