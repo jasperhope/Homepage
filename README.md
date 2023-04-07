@@ -1,4 +1,4 @@
-<style>
+<div style>
 	#rcorners1 {
   border-radius: 25px;
   background: teal;
@@ -6,7 +6,8 @@
   width: 30px;
   height: 15px;  
 }
-</style>
+</div>
+
 <div style="background-color: teal;width: 100%;">
 	<h2 style="color: white;text-align: right;padding: 7px;">Brief CV</h2>
 </div>
