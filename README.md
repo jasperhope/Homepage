@@ -9,7 +9,7 @@
   background: teal;
   padding: 10px; 
   width: 260px;
-  height: 30px; 
+  height: 80px; 
 } 
 
 #rcorners4 {
@@ -17,13 +17,13 @@
   background: teal;
   padding: 10px; 
   width: 500px;
-  height: 40px; 
+  height: 80px; 
 } 
 </style>
 </head>
 <body style="background-color:#F0FFFF;">
 
-<center><p id=rcorners4 align=center><font color=white size=6 font=bold><b>Brief CV</b></font></p></center>
+<center><p id=rcorners4 align=center line-height=XXpx><font color=white size=6 font=bold><b>Brief CV</b></font></p></center>
 
 <center><h1><font color="teal" size=15 face="calibri" color="teal">Jasper Hope</font></h1></center>
 <center><font size=5>Hi,Here! 🥰</font> </center>
@@ -33,7 +33,7 @@
 
 
 
-<p id=rcorners3 align=center><font color=white size=6 font=bold><b>Education</b></font></p>
+<p id=rcorners3 align=center line-height=XXpx><font color=white size=6 font=bold><b>Education</b></font></p>
 
   <p><font color="#00CED1" size=5 face="calibri">Lincang No.3 Middle School</font> </p>
   <p><font size=4>2016-2019</font></p>
@@ -43,7 +43,7 @@
   <p><font color="#00CED1" size=5 face="calibri">Guanghua School of Management, Peking University</font></p>
   <p><font size=4>2022-Present</font></p>
 
-<p id=rcorners3 align=center><font color=white size=6 font=bold><b>Contact</b></font></p>
+<p id=rcorners3 align=center line-height=XXpx><font color=white size=6 font=bold><b>Contact</b></font></p>
 
 <p><font color="#00CED1" face="calibri" size=5>Tel:</font></p>
 <p><font face="calibri" size=4>📞185-1898-6033</font></p>
@@ -58,13 +58,13 @@
 <p id=rcorners3 align=center><font color=white size=6 font=bold><b>Some Files</b></font></p>
 
 
-<p><font color="#00CED1" face="calibri" size=5>Materials of Professinal Courses in GSM:</font></p>
+<p><font color="#00CED1" face="calibri" size=5 line-height=XXpx>Files</font></p>
 
-<p><a href="https://jasperhope.github.io/Homepage/Microeconomics.pdf"><font color="gray" size=4.7>Lagrange Multipliers in Optimizing</font></a></p>
+<p><a href="https://jasperhope.github.io/Homepage/Microeconomics.pdf">Lagrange Multipliers in Optimizing</a></p>
 
-<p><a href="https://jasperhope.github.io/Homepage/Review For Accounting(Chap.1-3).pdf"><font color="gray" size=4.7>Accounting Chapter1-Chapter3</font></a></p>
+<p><a href="https://jasperhope.github.io/Homepage/Review For Accounting(Chap.1-3).pdf">Accounting Chapter1-Chapter3</a></p>
 
-<p><a href="https://jasperhope.github.io/Homepage/Selection of Variance Formulas.pdf"><font color="gray" size=4.7>Selection of Variance Formulas</font></a></p>
+<p><a href="https://jasperhope.github.io/Homepage/Selection of Variance Formulas.pdf">Selection of Variance Formulas</a></p>
 
 </body>
 </html>
