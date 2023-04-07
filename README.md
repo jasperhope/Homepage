@@ -1,51 +1,72 @@
-<!DOCTYPE html>
 <html>
+<title>Jasper's Homepage</title>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<style>
+#rcorners3 {
+  border-radius: 15px 50px;
+  background: teal;
+  padding: 10px; 
+  width: 260px;
+  height: 30px; 
+} 
+
+#rcorners4 {
+  border-radius: 15px 50px;
+  background: teal;
+  padding: 10px; 
+  width: 500px;
+  height: 40px; 
+} 
+</style>
+</head>
 <body style="background-color:#F0FFFF;">
 
-<div style="background-color: teal;width: 100%;">
-	<h2 style="color: white;text-align: right;padding: 7px;">Brief CV</h2>
-</div>
+<center><p id=rcorners4 align=center><font color=white size=6 font=bold><b>Brief CV</b></font></p></center>
 
-<center> <font color="gray" size=15 face="calibri" text-align="center" color="teal">Jasper Hope</font> </center>
-<center>  Hi,Here! 🥰 </center> 
-<center>  I am Jasper Hope, welcome to my homepage! </center> 
-  ---
-
-<div style="background-color: teal;width: 100%;">
-	<h2 style="color: white;text-align: left;padding: 6px;">Education</h2>
-</div>
-
-  <font color="#00CED1" size=5 face="calibri">Lincang No.3 Middle School</font>  *2016-2019*
-
-  <font color="#00CED1" size=5 face="calibri">Lincang No.1 Senior High</font>「*Mainly on Liberal Arts*」 *2019-2022*
-
-  <font color="#00CED1" size=5 face="calibri">Guanghua School of Management, Peking University</font>  *2022-Present*
-
-<div style="background-color: teal;width: 100%;">
-	<h2 style="color: white;text-align: left;padding: 6px;">How to reach me</h2>
-</div>
-
-<font color="#00CED1" face="calibri" size=5>Tel:</font> 📞185-1898-6033
-
-<font color="#00CED1" face="calibri" size=5>E-mail:</font> 📮2200015893@gsm.pku.edu.cn ( <font color="gray">Official</font> ) / bbpig185@163.com ( <font color="gray">Private</font> )
-
-<font color="#00CED1" face="calibri" size=5>Address:</font> 🏫629, Building 38, Peking Univ., Haidian, Beijing
-
-<font color="#00CED1" face="calibri" size=5>My Official Accounts:</font> 📱[在思考的猪](https://mp.weixin.qq.com/s/Vh5_pRwz_MplRXsA1rHOHA)
-
-<div style="background-color: teal;width: 100%;">
-	<h2 style="color: white;text-align: left;padding: 6px;">Some Files</h2>
-</div>
+<center><h1><font color="teal" size=15 face="calibri" color="teal">Jasper Hope</font></h1></center>
+<center><font size=5>Hi,Here! 🥰</font> </center>
+<center><font size=5>I am Jasper Hope, welcome to my homepage! </font></center>
 
 
-<font color="#00CED1" face="calibri" size=5>Materials of Professinal Courses in GSM:</font>
 
-<a href="https://jasperhope.github.io/Homepage/Microeconomics.pdf">Lagrange Multipliers in Optimizing</a>
 
-<a href="https://jasperhope.github.io/Homepage/Review For Accounting(Chap.1-3).pdf">Accounting Chapter1-Chapter3</a>
 
-<a href="https://jasperhope.github.io/Homepage/Selection of Variance Formulas.pdf">Selection of Variance Formulas</a>
+<p id=rcorners3 align=center><font color=white size=6 font=bold><b>Education</b></font></p>
+
+  <p><font color="#00CED1" size=5 face="calibri">Lincang No.3 Middle School</font> </p>
+  <p><font size=4>2016-2019</font></p>
+
+  <p><font color="#00CED1" size=5 face="calibri">Lincang No.1 Senior High</font>
+  <p><font size=4>2019-2022「Mainly on Liberal Arts」</font></p>
+  <p><font color="#00CED1" size=5 face="calibri">Guanghua School of Management, Peking University</font></p>
+  <p><font size=4>2022-Present</font></p>
+
+<p id=rcorners3 align=center><font color=white size=6 font=bold><b>Contact</b></font></p>
+
+<p><font color="#00CED1" face="calibri" size=5>Tel:</font></p>
+<p><font face="calibri" size=4>📞185-1898-6033</font></p>
+<p><font color="#00CED1" face="calibri" size=5>E-mail:</font> </p>
+<p><font face="calibri" size=4>📮2200015893@gsm.pku.edu.cn ( <font color="gray">Official</font> )</font> </p>
+<p><font face="calibri" size=4>bbpig185@163.com ( <font color="gray">Private</font> )</font></p>
+<p><font color="#00CED1" face="calibri" size=5>Address:</font></p>
+<p><font face="calibri" size=4>🏫629, Building 38, Peking Univ., Haidian, Beijing</font></p>
+<p><font color="#00CED1" face="calibri" size=5>My Official Accounts:</font> </p>
+<p>📱<a href=https://mp.weixin.qq.com/s/Vh5_pRwz_MplRXsA1rHOHA><font color=gray size=4.7>在思考的猪</font></a></p>
+
+<p id=rcorners3 align=center><font color=white size=6 font=bold><b>Some Files</b></font></p>
+
+
+<p><font color="#00CED1" face="calibri" size=5>Materials of Professinal Courses in GSM:</font></p>
+
+<p><a href="https://jasperhope.github.io/Homepage/Microeconomics.pdf"><font color="gray" size=4.7>Lagrange Multipliers in Optimizing</font></a></p>
+
+<p><a href="https://jasperhope.github.io/Homepage/Review For Accounting(Chap.1-3).pdf"><font color="gray" size=4.7>Accounting Chapter1-Chapter3</font></a></p>
+
+<p><a href="https://jasperhope.github.io/Homepage/Selection of Variance Formulas.pdf"><font color="gray" size=4.7>Selection of Variance Formulas</font></a></p>
 
 </body>
 </html>
+
 
