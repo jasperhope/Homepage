@@ -67,6 +67,8 @@
 <p><a href="https://jasperhope.github.io/Homepage/Selection of Variance Formulas.pdf">Selection of Variance Formulas</a></p>
 
 <p><a href="https://jasperhope.github.io/Homepage/搭子背后——社会心理学视域下的“搭子”社交.pdf">搭子背后——社会心理学视域下的“搭子”社交</a></p>
+
+<p><a href="https://jasperhope.github.io/Homepage/军事理论复习.pdf">搭子背后——社会心理学视域下的“搭子”社交</a></p>
   
 </body>
 </html>
